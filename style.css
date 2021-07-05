@@ -1,11 +1,5 @@
-.centerdiv{
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 
-a{
+.centerdiv a {
   height: 100px;
   width: 100px;
   background-color: #f5f6fa;
